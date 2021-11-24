@@ -3,12 +3,8 @@
   "description": "Telegram Bot for Compressing/Encoding videos in h264 format.",
   "repository": "https://github.com/m2Link/Video-Encoder-Bot/",
   "keywords": ["telegram", "pyrogram", "telegram bot"],
-  "env": {
-    "ENV": {
-      "description": "Set it to anything to enable configuration by environment variables.",
-      "value": "True"
-    },
-    "BOT_TOKEN": {
+    "env": {
+      "BOT_TOKEN": {
       "description": "Your Bot token from @Botfather",
       "value": ""
     },
