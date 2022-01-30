@@ -31,7 +31,8 @@ With python3.7 or later.
 pip3 install --no-cache-dir -r requirements.txt
 python3 -m VideoEncoder
 ```
-
+### Deploy To Heroku
+- [https://heroku.com/deploy?template=https://github.com/hoihoi07/Video-Encoder-Bot](https://heroku.com/deploy?template=https://github.com/hoihoi07/Video-Encoder-Bot)
 ### Credits
 - [ShannonScott](https://gist.github.com/ShannonScott) for [transcode_h265.py](https://gist.github.com/ShannonScott/6d807fc59bfa0356eee64fad66f9d9a8)
 - [viperadnan-git](https://github.com/viperadnan-git/video-encoder-bot) for queue etc.
